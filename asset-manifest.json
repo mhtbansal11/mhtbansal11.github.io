@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e504d8bd.css",
-    "main.js": "/static/js/main.fd0f336a.js",
+    "main.js": "/static/js/main.0289bb2b.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/home4.png": "/static/media/home4.fd7b7f65cb3ac6452f41.png",
     "static/media/home5.png": "/static/media/home5.3036b6ee6bac73ed3c72.png",
@@ -13,7 +13,6 @@
     "static/media/home6.png": "/static/media/home6.2f40b366180136802027.png",
     "static/media/checkout.png": "/static/media/checkout.117504e52180491ad749.png",
     "static/media/cart.png": "/static/media/cart.9494368e0ce7cb26ddb4.png",
-    "static/media/template1.png": "/static/media/template1.36953a9a3ae0578d6d7b.png",
     "static/media/signUp.png": "/static/media/signUp.30b172c8e167dc84a163.png",
     "static/media/marketing2.png": "/static/media/marketing2.fb4ac5a66d1f78a0ea2f.png",
     "static/media/signIn.png": "/static/media/signIn.1f8242c4faed9a53b34a.png",
@@ -30,15 +29,15 @@
     "static/media/marketing3.png": "/static/media/marketing3.2ef750c9ddc821069cf2.png",
     "static/media/stories2.png": "/static/media/stories2.10eb1b33c7a0d5380c81.png",
     "static/media/presentation.png": "/static/media/presentation.798099a637d6f242e03e.png",
-    "static/media/Mohit_Bansal_Resume.pdf": "/static/media/Mohit_Bansal_Resume.685054290c67cdd1e29d.pdf",
+    "static/media/fw19_1154-Mohit-Bansal-Resume.pdf": "/static/media/fw19_1154-Mohit-Bansal-Resume.685054290c67cdd1e29d.pdf",
     "static/media/logo.png": "/static/media/logo.abb439719f8b911239f1.png",
     "index.html": "/index.html",
     "main.e504d8bd.css.map": "/static/css/main.e504d8bd.css.map",
-    "main.fd0f336a.js.map": "/static/js/main.fd0f336a.js.map",
+    "main.0289bb2b.js.map": "/static/js/main.0289bb2b.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e504d8bd.css",
-    "static/js/main.fd0f336a.js"
+    "static/js/main.0289bb2b.js"
   ]
 }
