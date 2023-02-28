@@ -31,7 +31,7 @@ const Home = () => {
         <Heading pb={6} fontSize="2xl">
           <Typewriter
             options={{
-              strings: ["Full Stack Web Developer.", "Writing clean & simple code."],
+              strings: ["Full Stack Web Developer.", "Writing clean & simple code.", "EAT SLEEP CODE REPEAT"],
               autoStart: true,
               loop: true,
               delay: 80,

@@ -23,7 +23,7 @@ import qnaofMenti from "../ProjectsSnaps/Mentimeter/qna.png";
 import qna2ofMenti from "../ProjectsSnaps/Mentimeter/qna2.png";
 import qna3ofMenti from "../ProjectsSnaps/Mentimeter/qna3.png";
 import qna4ofMenti from "../ProjectsSnaps/Mentimeter/qna4.png";
-import templateofMenti from "../ProjectsSnaps/Mentimeter/template1.png";
+// import  from "../ProjectsSnaps/Mentimeter/template1.png";
 
 import home1ofCoshe from "../ProjectsSnaps/CoSchedule/home1.png";
 import home2ofCoshe from "../ProjectsSnaps/CoSchedule/home2.png";
@@ -66,7 +66,7 @@ const projectsData = [
     deployedURL: "https://luxury-gnome-1827a2.netlify.app/",
     githubURL: "https://github.com/mhtbansal11/Mentimeter-clone",
     images: [
-      home1ofMenti, presentationofMenti, pricingofMenti, qnaofMenti, qna2ofMenti, qna3ofMenti, qna4ofMenti, templateofMenti
+      home1ofMenti, presentationofMenti, pricingofMenti, qnaofMenti, qna2ofMenti, qna3ofMenti, qna4ofMenti, 
     ],
   },
   {

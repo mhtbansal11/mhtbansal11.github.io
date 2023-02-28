@@ -9,12 +9,12 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 import { AiOutlineDownload } from "react-icons/ai";
-import resume from "../assets/Mohit_Bansal_Resume.pdf";
+import resume from "../assets/fw19_1154-Mohit-Bansal-Resume.pdf";
 
 const About = () => {
   const handleClick = () => {
     window.open(
-      "https://drive.google.com/file/d/1bAHJ5X70ZF4ICDqcy4Hw0yFDMAOrMqnm/view?usp=sharing",
+      "https://drive.google.com/file/d/1fBsuG7Db09sKUTZeuBRl9RvHamPPAGoi/view?usp=sharing",
       "_blank"
     );
   };
@@ -37,7 +37,7 @@ const About = () => {
           // display={{ base: "none", md: "flex" }}
           target="_blank"
           href={resume}
-          download="fw19_1154_Mohit_Bansal_Resume"
+          download="fw19_1154-Mohit-Bansal-Resume"
           _hover={{ textDecoration: "none" }}
         >
           <Button
