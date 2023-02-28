@@ -108,7 +108,7 @@ const Navbar = () => {
           display={{ base: "none", md: "flex" }}
           target="_blank"
           href={resume}
-          download="Mohit_Bansal_Resume"
+          download="fw19_1154_Mohit_Bansal_Resume"
           _hover={{ textDecoration: "none" }}
         >
           <Button
@@ -171,7 +171,7 @@ const Navbar = () => {
             <Link
               target="_blank"
               href={resume}
-              download="Mohit_Bansal_Resume"
+              download="fw19_1154_Mohit_Bansal_Resume"
               _hover={{ textDecoration: "none" }}
               onClick={() => handleClick()}
             >

@@ -19,7 +19,7 @@ const About = () => {
     );
   };
   return (
-    <div style={{width:"100%", backgroundColor:"#D6D6D6"}} >
+    <div style={{width:"100%", backgroundColor:"#8C8C8C"}} >
       <VStack
         spacing="5"
         maxW={"1000px"}
@@ -37,7 +37,7 @@ const About = () => {
           // display={{ base: "none", md: "flex" }}
           target="_blank"
           href={resume}
-          download="Mohit_Bansal_Resume"
+          download="fw19_1154_Mohit_Bansal_Resume"
           _hover={{ textDecoration: "none" }}
         >
           <Button

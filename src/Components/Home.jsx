@@ -18,7 +18,7 @@ const Home = () => {
       justifyContent="flex-end"
       gap="5%"
       minH={"90vh"}
-      bgGradient="radial-gradient(circle at 27.1% 51.8%,#000000  0.5%, #44444C 94.4%);"
+      bgGradient="radial-gradient(circle at 24.1% 51.8%,#000000  0.5%, #44444C 100.4%);"
       // bg="black"
       color="#D6D6D6"
       id="home"
